@@ -12,3 +12,7 @@ import random
 lista = ["a","b","c","d"]
 ale = random.randint(0,len(lista)-1)
 print("el nombre elegido es",lista[ale])
+
+#programa que te saluda
+nombre = input("cómo te llamas?")
+print("Hola",nombre,"me gusta tu nombre")
