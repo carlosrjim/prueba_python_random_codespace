@@ -1,3 +1,4 @@
+#este programa de ejemplo se ha escrito utilizando github.dev (vs code) en un codespace
 a = int(input("type a number: "))
 b = int(input("type another number: "))
 c = a + b
