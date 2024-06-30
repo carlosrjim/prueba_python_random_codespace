@@ -17,3 +17,5 @@ print("el nombre elegido es",lista[ale])
 #programa que te saluda
 nombre = input("cómo te llamas? ")
 print("Hola",nombre,"me gusta tu nombre")
+
+#cambio realizado desde vscode
